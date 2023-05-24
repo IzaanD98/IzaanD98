@@ -1,19 +1,6 @@
 <h1 align="center">Hi👋, I'm Izaan Dalvi</h1>
 <h3 align="center">Full-stack Software Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izaand98&label=Profile%20views&color=0e75b6&style=flat" alt="izaand98" /> </p>
-
-- 📫 How to reach me **izaandalvi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/izaand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaand" height="30" width="40" /></a>
-
-</p>
-<br/>
-<br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
