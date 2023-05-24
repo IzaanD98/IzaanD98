@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Izaan Dalvi</h1>
-<h3 align="center">Full-stack Software Developer</h3>
 
 
 
